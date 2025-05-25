@@ -7,19 +7,19 @@ export function HealthStatusCards() {
       case "lungs":
         return (
           <div className="h-6 w-6 text-blue-500">
-            <img src="/public/images/lungs.png" alt="Lungs Image" />
+            <img src="/images/lungs.png" alt="Lungs Image" />
           </div>
         );
       case "teeth":
         return (
           <div className="h-6 w-6 text-blue-500">
-            <img src="/public/images/Teeth.png" alt="Teeth Image" />
+            <img src="/images/Teeth.png" alt="Teeth Image" />
           </div>
         );
       case "bone":
         return (
           <div className="h-6 w-6 text-blue-500">
-            <img src="/public/images/Bone.png" alt="Bone Image" />
+            <img src="/images/Bone.png" alt="Bone Image" />
           </div>
         );
       default:

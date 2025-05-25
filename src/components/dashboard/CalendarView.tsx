@@ -106,11 +106,11 @@ export function CalendarView() {
               >
                 {appointment.id === "dentist" ? (
                   <div className="h-4 w-4 text-blue-500">
-                    <img src="/public/images/Teeth.png" alt="Teeth Image" />
+                    <img src="/images/Teeth.png" alt="Teeth Image" />
                   </div>
                 ) : (
                   <div className="h-5 w-5 text-blue-500">
-                    <img src="/public/images/Physio.png" alt="Teeth Image" />
+                    <img src="/images/Physio.png" alt="Teeth Image" />
                   </div>
                 )}
               </div>

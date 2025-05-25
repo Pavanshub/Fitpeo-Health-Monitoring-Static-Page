@@ -29,7 +29,7 @@ export function Header() {
         
         <Avatar className="h-8 w-8 sm:h-10 sm:w-10 bg-white ring-2 ring-cyan-500/20 transition-all duration-300 hover:scale-105 cursor-pointer">
           <div className=" object-fit">
-            <img src="/public/images/Avatar.png" alt="Avatar Image" />
+            <img src="/images/Avatar.png" alt="Avatar Image" />
           </div>
         </Avatar>
         
