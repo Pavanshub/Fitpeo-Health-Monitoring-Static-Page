@@ -15,7 +15,7 @@ export function AnatomySection() {
       <div className="flex justify-center items-center h-full">
         <div className="relative">
           <img 
-            src="./../../../public/images/human-body.jpg" 
+            src="/images/human-body.jpg" 
             alt="Human anatomy" 
             className="h-[300px] object-cover"
           />
